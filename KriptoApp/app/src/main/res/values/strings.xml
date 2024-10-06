@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kripto App</string>
+    <string name="suggestions_title">Sugerencias de Optimización</string>
+    <string name="suggestions_detail">Detalles:\n%1$s</string>
+    <string name="apply_button">Aplicar</string>
+    <string name="resource_usage_percentage">%1$.1f% utilizado</string>
+    <string name="resource_memory_title">Uso de Memoria</string>
+    <string name="resource_cpu_title">Uso de CPU</string>
+    <string name="resource_mobile_data_title">Uso de Datos Móviles</string>
+    <string name="resource_wifi_title">Uso de Wi-Fi</string>
+    <string name="apps_tertiary_title">Aplicaciones de Terceros</string>
+    <string name="apps_system_title">Aplicaciones del Sistema Preinstaladas</string>
+    <string name="apps_last_update">Última actualización: %1$s</string>
+    <string name="app_icon_description">App Icon</string>
+    <string name="suggestion_memory_title">Liberar memoria RAM</string>
+    <string name="suggestion_memory_message">Libera memoria de estas aplicaciones que están utilizando mucha RAM.</string>
+    <string name="suggestion_cpu_title">Optimizar consumo de CPU</string>
+    <string name="suggestion_cpu_message">Optimiza el uso del CPU para mejorar el rendimiento general.</string>
+    <string name="suggestion_mobile_data_title">Reducir el uso de datos móviles</string>
+    <string name="suggestion_mobile_data_message">Reduce el uso de datos móviles ajustando estas aplicaciones.</string>
+    <string name="suggestion_wifi_title">Optimizar el uso de WiFi</string>
+    <string name="suggestion_wifi_message">Ajusta el uso de WiFi para optimizar los recursos.</string>
+</resources>
