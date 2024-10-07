@@ -9,7 +9,9 @@ KriptoApp es una aplicación diseñada para gestionar las aplicaciones instalada
 
 ## Demostración
 
-Aquí tienes un breve video que muestra cómo funciona la aplicación: [Video de demostración](https://youtube.com/shorts/Iya_3MHjNTI?feature=share).
+Aquí tienes un breve video que muestra cómo funciona la aplicación: 
+
+https://github.com/user-attachments/assets/6e33b5d7-02a4-4e0d-a68c-b80e4fe5b704
 
 ## Tecnologías Utilizadas
 
